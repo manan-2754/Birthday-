@@ -1,0 +1,106 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header {
+    font-family: cursive;
+    background-color: #f1f1f1;
+    color: #922a2a;
+    text-align: center;
+    padding: 2rem;
+}
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    float: left;
+    padding-left: 6.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+aside {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    float: right;
+    padding-right: 6.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+section {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border: 2px solid black;
+}
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.birthday{
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+.gifts{
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+p{
+    font-family: cursive;
+    font-size: 1rem;
+}
+h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+footer {
+    clear: both;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem;
+}
+.head1{
+    text-align: center;
+    border: 1px solid black;
+    padding: 1rem;
+    padding-left: .5rem;
+}
+.head2{
+    text-align: center;
+    border: 1px solid black;
+    padding: 1rem;
+    padding-left: .5rem;
+}
+.image1{
+    padding-left: 2rem;
+    border: 1px solid black;
+}
+.image2{
+    padding-left: 2rem;
+    border: 2px solid black;
+    background-color: black;
+}
+.img{
+    padding-left: 2rem;
+    border: 1px solid black;
+}
+.image{
+    padding-left: 13rem;
+    border: 1px solid black;
+    align-items: center;
+}
+.para{
+    border: 1px solid black;
+    padding: 0rem;
+    padding-left: .5rem;
+}
+/* Add more styles as needed */
